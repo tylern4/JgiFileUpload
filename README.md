@@ -7,5 +7,5 @@ docker build -t jgiuploader -f python3-alpine.dockerfile .
 ```
 
 ```
-docker run --rm -it -p 80:80 jgiuploader
+docker run --rm -it -p 8080:8080 jgiuploader
 ```
