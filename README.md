@@ -3,7 +3,7 @@
 
 
 ```
-docker build -t jgiuploader -f python3.8-alpine3.11.dockerfile .
+docker build -t jgiuploader -f python3-alpine.dockerfile .
 ```
 
 ```
